@@ -1,0 +1,51 @@
+Order_ID,Customer,City,Category,Product,Quantity,Price,Discount,Order_Date,Payment_Method,Rating
+ORD1001,Anaswar,Calicut,Electronics,Wireless Mouse,2,799,10,2026-01-05,UPI,5
+ORD1002,Rahul,Bangalore,Clothing,T-Shirt,3,599,5,2026-01-08,Credit Card,4
+ORD1003,Diya,Kochi,Books,Python Basics,1,499,0,2026-01-12,UPI,5
+ORD1004,Meera,Thrissur,Beauty,Face Wash,2,249,15,2026-01-15,Cash on Delivery,3
+ORD1005,Arjun,Trivandrum,Electronics,Headphones,1,2499,10,2026-01-18,Debit Card,5
+ORD1006,Neha,Coimbatore,Home & Kitchen,Water Bottle,4,399,5,2026-01-20,UPI,4
+ORD1007,Vishnu,Kollam,Clothing,Jeans,2,1599,20,2026-01-22,Credit Card,4
+ORD1008,Sneha,Mysore,Books,Data Analytics,1,699,0,2026-01-25,Net Banking,5
+ORD1009,Kiran,Kannur,Beauty,Moisturizer,3,399,10,2026-01-28,UPI,4
+ORD1010,Priya,Mumbai,Electronics,Bluetooth Speaker,2,1499,15,2026-02-01,Cash on Delivery,5
+ORD1011,Aarav,Kochi,Home & Kitchen,Mixer Grinder,1,2499,5,2026-02-04,Credit Card,4
+ORD1012,Akhila,Kozhikode,Clothing,Hoodie,2,1899,10,2026-02-07,UPI,5
+ORD1013,Nikhil,Hyderabad,Books,AI Handbook,3,899,20,2026-02-10,Debit Card,4
+ORD1014,Rohan,Pune,Beauty,Sunscreen,2,499,0,2026-02-13,UPI,3
+ORD1015,Adithya,Palakkad,Electronics,Keyboard,1,1299,5,2026-02-16,Credit Card,5
+ORD1016,Diya,Calicut,Clothing,Sneakers,1,2999,15,2026-02-19,Net Banking,4
+ORD1017,Rahul,Bangalore,Home & Kitchen,Coffee Maker,2,3299,10,2026-02-22,UPI,5
+ORD1018,Meera,Thrissur,Books,Design Thinking,2,549,5,2026-02-25,Cash on Delivery,4
+ORD1019,Arjun,Trivandrum,Beauty,Perfume,1,1199,20,2026-02-28,Credit Card,5
+ORD1020,Neha,Coimbatore,Electronics,Wireless Mouse,3,799,0,2026-03-03,UPI,4
+ORD1021,Vishnu,Kollam,Clothing,T-Shirt,2,599,10,2026-03-06,Debit Card,3
+ORD1022,Sneha,Mysore,Home & Kitchen,Cookware Set,1,1799,5,2026-03-09,UPI,5
+ORD1023,Kiran,Kannur,Books,Python Basics,2,499,15,2026-03-12,Credit Card,4
+ORD1024,Priya,Mumbai,Beauty,Face Wash,4,249,10,2026-03-15,Cash on Delivery,5
+ORD1025,Aarav,Kochi,Electronics,Headphones,1,2499,0,2026-03-18,Net Banking,4
+ORD1026,Akhila,Kozhikode,Clothing,Jeans,3,1599,20,2026-03-21,UPI,5
+ORD1027,Nikhil,Hyderabad,Home & Kitchen,Water Bottle,2,399,5,2026-03-24,Credit Card,4
+ORD1028,Rohan,Pune,Books,Data Analytics,1,699,10,2026-03-27,UPI,3
+ORD1029,Adithya,Palakkad,Beauty,Moisturizer,2,399,0,2026-03-30,Debit Card,5
+ORD1030,Anaswar,Calicut,Electronics,Bluetooth Speaker,1,1499,15,2026-04-02,UPI,5
+ORD1031,Diya,Kochi,Clothing,Hoodie,2,1899,10,2026-04-05,Credit Card,4
+ORD1032,Rahul,Bangalore,Books,AI Handbook,1,899,5,2026-04-08,UPI,5
+ORD1033,Meera,Thrissur,Home & Kitchen,Mixer Grinder,2,2499,20,2026-04-11,Cash on Delivery,4
+ORD1034,Arjun,Trivandrum,Beauty,Sunscreen,3,499,10,2026-04-14,Debit Card,3
+ORD1035,Neha,Coimbatore,Electronics,Keyboard,2,1299,5,2026-04-17,UPI,5
+ORD1036,Vishnu,Kollam,Clothing,Sneakers,1,2999,0,2026-04-20,Credit Card,4
+ORD1037,Sneha,Mysore,Books,Design Thinking,3,549,15,2026-04-23,Net Banking,5
+ORD1038,Kiran,Kannur,Home & Kitchen,Coffee Maker,1,3299,10,2026-04-26,UPI,4
+ORD1039,Priya,Mumbai,Beauty,Perfume,2,1199,20,2026-04-29,Cash on Delivery,5
+ORD1040,Aarav,Kochi,Electronics,Wireless Mouse,4,799,5,2026-05-02,Debit Card,4
+ORD1041,Akhila,Kozhikode,Clothing,T-Shirt,3,599,10,2026-05-05,UPI,5
+ORD1042,Nikhil,Hyderabad,Home & Kitchen,Cookware Set,2,1799,0,2026-05-08,Credit Card,4
+ORD1043,Rohan,Pune,Books,Python Basics,1,499,5,2026-05-11,UPI,3
+ORD1044,Adithya,Palakkad,Beauty,Face Wash,3,249,15,2026-05-14,Net Banking,5
+ORD1045,Anaswar,Calicut,Electronics,Headphones,2,2499,10,2026-05-17,UPI,5
+ORD1046,Diya,Kochi,Clothing,Jeans,1,1599,20,2026-05-20,Credit Card,4
+ORD1047,Rahul,Bangalore,Home & Kitchen,Water Bottle,5,399,5,2026-05-23,Cash on Delivery,4
+ORD1048,Meera,Thrissur,Books,Data Analytics,2,699,0,2026-05-26,Debit Card,5
+ORD1049,Arjun,Trivandrum,Beauty,Moisturizer,1,399,10,2026-05-29,UPI,4
+ORD1050,Neha,Coimbatore,Electronics,Bluetooth Speaker,3,1499,15,2026-06-01,Credit Card,5
